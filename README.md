@@ -1,4 +1,4 @@
-# [EnglishAudioBot](t.me/FluentlyAudioBot)
+# [EnglishAudioBot](https://t.me/FluentlyAudioBot)
 
 Бот для Telegram, который помогает учить английский через озвучку слов, фраз и предложений для лучшего flow обучения в моём телеграм [канале](t.me/Fluently_channel).
 
@@ -24,8 +24,8 @@
 BOT_TOKEN=your-telegram-bot-token
 DISCUSSION_CHAT_ID=your-discussion-chat-id
 ```
-1) Обратись к [бате](t.me/BotFather)
-2) Используй этого [бота](t.me/userinfobot):
+1) Обратись к [бате](https://t.me/BotFather)
+2) Используй этого [бота](https://t.me/userinfobot):
 - Напиши сообщение от лица группы чата в группу и перешли это сообщение
 - Ты получишь такое сообщение:
 ```text

@@ -1,0 +1,7 @@
+services:
+  english-audio-bot:
+    image: woolfer0097kek/english-audio-bot:latest
+    container_name: english-audio-bot
+    restart: unless-stopped
+    env_file:
+      - .env

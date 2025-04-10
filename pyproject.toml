@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "englishaudiobot"
+version = "0.1.0"
+description = ""
+authors = ["Woolfer0097 <Woolfer0097@yandex.ru>"]
+license = "MIT"
+readme = "README.md"
+packages = [
+    { include = "englishAudioBot" }
+]
+
+[tool.poetry.dependencies]
+python = "3.10.12"
+gtts = "^2.5.4"
+aiogram = "^3.19.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+englishAudioBot = "englishAudioBot.main:main"
